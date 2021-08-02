@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a job in the Dev field, and working in a partner solutions area for a company that work with travel packages
 - 🌱 I’m currently learning Mongodb
 - 👯 I’m looking to collaborate on a open source project 
-- 📫 You can reach me clicking the buttons
+- 📫 You can reach me clicking the buttons at the end of this page
 - 🌎 Fun fact: I speak English Portuguese and Spanish
 - <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPride&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
