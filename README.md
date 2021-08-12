@@ -6,8 +6,12 @@
 - 📫 You can reach me clicking the buttons at the end of this page
 - 🌎 I speak English Portuguese and Spanish
 - <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPride&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioPride&layout=compact&langs_count=7&theme=dracula"/>
+  
+  ![CaioPride's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioPride&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPride&layout=compact)](https://github.com/CaioPride/)
+
+       
 </div>
   <a href="https://github.com/CaioPride">
   <div style="display: inline_block"><br>
